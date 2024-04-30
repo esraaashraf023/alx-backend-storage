@@ -1,2 +1,2 @@
 // comment
-db.school.find()
+db.school.insert({name: "Holberton school"})
